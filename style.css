@@ -1,0 +1,54 @@
+body{
+    background-image: url(./img\ src/new.jpg);
+    text-align: center;
+    color:rgb(221, 231, 188);
+    font: normal 25pt Arial;
+}
+h1{
+    background-color: white;
+    color:rgb(93, 197, 74);
+    margin-top: 5px;
+}
+section#top{
+    width: 800px;
+    background-color: rgb(49, 44, 44);
+    color: rgb(33, 172, 63);
+    margin:auto;
+    font: normal 15pt Arial;
+    
+}
+section#bot{
+    background: darkgreen;
+    color: rgb(255, 255, 255);
+    opacity: 100%;
+    width: 800px;
+    margin:auto;
+}
+input#num{
+    width: 75px;
+}
+input#btn{
+    margin-bottom:15px;
+    background: rgba(42, 119, 53, 0.637);
+    color: rgb(255, 255, 224);
+    font:bolder 10pt Arial;
+    padding: 10px;
+    border-radius: 45%;
+    border-color: transparent;
+}
+footer{
+    font: small-caps;
+    background: rgb(255, 255, 255);
+    font-size: 15pt;
+    position:sticky;
+    margin-top:180px;
+}
+p#calc{
+    font:bolder 20pt Arial;
+    padding: 5px;
+}
+p#result{
+    font:bolder 25pt Arial;
+    margin-bottom: -40px;
+}
+
